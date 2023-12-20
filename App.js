@@ -6,6 +6,7 @@ const App = () => {
     <View>
       <Text>hello word</Text>
       <Text>ferdiansyah</Text>
+      <Text>lzlzlz</Text>
     </View>
   );
 };
